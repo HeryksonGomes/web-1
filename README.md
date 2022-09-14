@@ -4,7 +4,7 @@ Grupo
 
 ## Agendamento de pacientes
 
-#Tools
+# Tools
 
 Java
 Spring Boot
@@ -22,8 +22,8 @@ Início da socialização - 21/11
 
 # Integrantes
 
-Herykson Gomes
-Lailton Alves da Costa Júnior
-Aline Alegre Padilha
-Suellen Aparecida França de Godoy
+Herykson Gomes,
+Lailton Alves da Costa Júnior,
+Aline Alegre Padilha,
+Suellen Aparecida França de Godoy,
 Mateus Klabunde dos Santos
