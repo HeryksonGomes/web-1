@@ -1,8 +1,8 @@
-##Seminário Interdisciplinar: Implementação de uma Aplicação WEB
+## Seminário Interdisciplinar: Implementação de uma Aplicação WEB
 
 Grupo
 
-##Agendamento de pacientes
+## Agendamento de pacientes
 
 #Tools
 
@@ -13,14 +13,14 @@ HTML
 CSS
 MySQL
 
-#Datas
+# Datas
 
 Postagem até dia 10/10/2022 - Revisão com feedback
 Postagem até dia 31/10/2022 - Validação e sem feedback
 Início da socialização - 21/11
 Último dia para socializar - 05/12
 
-#Integrantes
+# Integrantes
 
 Herykson Gomes
 Lailton Alves da Costa Júnior
